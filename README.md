@@ -4,8 +4,6 @@
 Matheus Nogueira  
 João Pedro Martinez  
 
-📧 Contact: matnogueira@gmail.com
-
 ## About this Project
 
 This project was developed as the final assignment for the course **ENG1467 – Optimization** at PUC-Rio. The objective was to formulate and solve an optimization problem that minimizes the total cost of a weekly food plan, while ensuring that nutritional and dietary requirements are satisfied.
